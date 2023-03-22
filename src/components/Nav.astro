@@ -11,7 +11,11 @@ const textLinks: { label: string; href: string }[] = [
 
 /** Icon links to social media — edit these with links to your profiles! */
 const iconLinks: { label: string; href: string; icon: IconProps["icon"] }[] = [
-  { label: "Twitter", href: "https://twitter.com/LeahCaragol", icon: "twitter" },
+  {
+    label: "Twitter",
+    href: "https://twitter.com/LeahCaragol",
+    icon: "twitter",
+  },
   // { label: 'Twitch', href: 'https://twitch.tv/me', icon: 'twitch' },
   { label: "GitHub", href: "https://github.com/leahcaragol", icon: "github" },
   {
@@ -21,19 +25,18 @@ const iconLinks: { label: string; href: string; icon: IconProps["icon"] }[] = [
   },
   // { label: 'CodePen', href: 'https://codepen.io/me', icon: 'codepen' },
   // { label: 'dribbble', href: 'https://dribbble.com/me', icon: 'dribbble' },
-  { label: "LinkedIn", href: "https://www.linkedin.com/in/leah-caragol/", icon: "linkedin" },
+  {
+    label: "LinkedIn",
+    href: "https://www.linkedin.com/in/leah-caragol/",
+    icon: "linkedin",
+  },
 ];
 ---
 
 <nav>
   <div class="menu-header">
     <a href="/" class="site-title">
-      <Icon
-        icon="globe"
-        color="var(--accent-regular)"
-        size="1.6em"
-        gradient
-      />
+      <Icon icon="globe" color="var(--accent-regular)" size="1.6em" gradient />
       Leah Caragol
     </a>
     <menu-button>
