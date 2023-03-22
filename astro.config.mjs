@@ -6,7 +6,7 @@ import compress from "astro-compress";
 
 // https://astro.build/config
 export default defineConfig({
-  site: "https://astro-portfolio.birki.io",
+  site: "https://leah.birki.io",
   base: "/",
   trailingSlash: "never",
   output: "static",

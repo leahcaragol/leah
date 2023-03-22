@@ -16,7 +16,7 @@ permissions:
 
 # set an environment variable for use in the jobs pointing the site_url
 env:
-  site_url: https://astro-portfolio.birki.io
+  site_url: https://leah.birki.io
 
 jobs:
   # branch-deploy trigger job
