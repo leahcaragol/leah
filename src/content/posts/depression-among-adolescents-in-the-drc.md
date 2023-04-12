@@ -6,7 +6,7 @@ img_alt: Woman in the DRC standing next to a train
 description: |
   How do sociocultural and economic factors influence depression among adolescents during the antenatal period in Kinshasa, Democratic Republic of Congo?
 tags:
-  - Academic Paper
+  - Academic
   - Research
   - Global Health
 ---

@@ -220,6 +220,11 @@ h5 {
   flex-direction: column;
 }
 
+.stack-blog {
+  display: block;
+  flex-direction: column;
+}
+
 .gap-2 {
   gap: 0.5rem;
 }
