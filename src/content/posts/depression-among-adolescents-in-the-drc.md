@@ -8,7 +8,6 @@ description: |
 tags:
   - Academic
   - Research
-  - Global Health
 ---
 
 ## Depression among Adolescents during the Antenatal Period in the DRC
