@@ -15,6 +15,11 @@ tags:
 
 > How do sociocultural and economic factors influence depression among adolescents during the antenatal period in Kinshasa, Democratic Republic of Congo?
 
+- 🖊️ Author: Leah Caragol
+- 📆 Publish Date: February 23, 2023
+- 🗒️ Type: Academic Research Paper
+- 🏫 Association: [Kings College London](https://www.kcl.ac.uk/)
+
 ### Background
 
 The Democratic Republic of Congo (DRC), with a population of 95.9 million, is among the world's most populous and poorest countries, ranking 179 out of 191 countries on the Human Development Index (Worldbank.org, 2017). It has the third-highest total fertility rate in the world, with 6.2 births per woman (Mbadu Muanda et al., 2018). Like other high-fertility countries, the population is young, with 52% under 15 years old, with early sexual behaviours and childbearing contributing to high fertility rates (Mbadu Muanda et al., 2018). Among adolescents in the DRC, 119 per 1,000 women are aged 15 -19 years, a higher rate than in West and Central Africa (107 per 1,0000) (Fatusi et al., 2021).
