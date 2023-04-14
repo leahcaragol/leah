@@ -16,7 +16,7 @@ tags:
 
 - 🖊️ Author: Leah Caragol
 - 📆 Publish Date: February 23, 2023
-- 🗒️ Type: Academic Research Paper
+- 🗒️ Type: Academic Proposal Research Paper
 - 🏫 Association: [Kings College London](https://www.kcl.ac.uk/)
 
 ### Background
