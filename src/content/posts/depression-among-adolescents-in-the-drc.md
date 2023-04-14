@@ -7,7 +7,7 @@ description: |
   How do sociocultural and economic factors influence depression among adolescents during the antenatal period in Kinshasa, Democratic Republic of Congo?
 tags:
   - Academic
-  - Research
+  - Proposal
 ---
 
 ## Depression among Adolescents during the Antenatal Period in the DRC
