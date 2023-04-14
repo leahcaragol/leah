@@ -1,7 +1,7 @@
 ---
 title: Depression among Adolescents during the Antenatal Period in the DRC
 publishDate: 2023-02-23 00:00:00
-img: /assets/drc.jpg
+img: /assets/depression-among-adolescents-in-the-drc/drc.jpg
 img_alt: Woman in the DRC standing next to a train
 description: |
   How do sociocultural and economic factors influence depression among adolescents during the antenatal period in Kinshasa, Democratic Republic of Congo?
