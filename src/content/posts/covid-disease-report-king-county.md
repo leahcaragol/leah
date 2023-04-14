@@ -2,7 +2,7 @@
 title: COVID-19 Disease Report for King County
 publishDate: 2022-11-24 00:00:00
 img: /assets/covid-disease-report-king-county/covid.jpg
-img_alt: Woman in the DRC standing next to a train
+img_alt: COVID-19 vaccine bottles
 description: |
   Structural Causes of Disease Report for COVID-19 in King County, WA
 tags:
