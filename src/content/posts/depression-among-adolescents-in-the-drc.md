@@ -1,13 +1,13 @@
 ---
 title: Depression among Adolescents during the Antenatal Period in the DRC
 publishDate: 2023-02-23 00:00:00
-img: /assets/drc.jpg
+img: /assets/depression-among-adolescents-in-the-drc/drc.jpg
 img_alt: Woman in the DRC standing next to a train
 description: |
   How do sociocultural and economic factors influence depression among adolescents during the antenatal period in Kinshasa, Democratic Republic of Congo?
 tags:
   - Academic
-  - Research
+  - Proposal
 ---
 
 ## Depression among Adolescents during the Antenatal Period in the DRC
@@ -16,7 +16,7 @@ tags:
 
 - 🖊️ Author: Leah Caragol
 - 📆 Publish Date: February 23, 2023
-- 🗒️ Type: Academic Research Paper
+- 🗒️ Type: Academic Proposal Research Paper
 - 🏫 Association: [Kings College London](https://www.kcl.ac.uk/)
 
 ### Background
