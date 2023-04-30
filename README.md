@@ -1,8 +1,12 @@
 # leah.birki.io 🌍
 
+[![deploy](https://github.com/leahcaragol/leah/actions/workflows/deploy.yml/badge.svg)](https://github.com/leahcaragol/leah/actions/workflows/deploy.yml)
+
 Leah Caragol's personal portfolio website
 
 Check it out here ➡️ [leah.birki.io](https://leah.birki.io)
+
+![homepage](docs/assets/homepage.png)
 
 ## 🧞 Commands
 
