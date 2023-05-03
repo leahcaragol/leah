@@ -1,6 +1,6 @@
 # leah.birki.io 🌍
 
-[![deploy](https://github.com/leahcaragol/leah/actions/workflows/deploy.yml/badge.svg)](https://github.com/leahcaragol/leah/actions/workflows/deploy.yml)
+[![deploy](https://github.com/leahcaragol/leah/actions/workflows/deploy.yml/badge.svg)](https://github.com/leahcaragol/leah/actions/workflows/deploy.yml) [![ci](https://github.com/leahcaragol/leah/actions/workflows/ci.yml/badge.svg)](https://github.com/leahcaragol/leah/actions/workflows/ci.yml)
 
 Leah Caragol's personal portfolio website
 
